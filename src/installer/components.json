@@ -1,0 +1,106 @@
+[
+    {
+        "name": "acf-repeater",
+        "type": "plugin",
+        "destination": "plugins/acf-repeater",
+        "url": "https://downloads.wordpress.org/plugin/acf-repeater.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "advanced-custom-fields",
+        "type": "plugin",
+        "destination": "plugins/advanced-custom-fields",
+        "url": "https://downloads.wordpress.org/plugin/advanced-custom-fields.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "contact-form-7",
+        "type": "plugin",
+        "destination": "plugins/contact-form-7",
+        "url": "https://downloads.wordpress.org/plugin/contact-form-7.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "post-duplicator",
+        "type": "plugin",
+        "destination": "plugins/post-duplicator",
+        "url": "https://downloads.wordpress.org/plugin/post-duplicator.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "jquery-masonry-image-gallery",
+        "type": "plugin",
+        "destination": "plugins/jquery-masonry-image-gallery",
+        "url": "https://downloads.wordpress.org/plugin/jquery-masonry-image-gallery.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "kirki",
+        "type": "plugin",
+        "destination": "plugins/kirki",
+        "url": "https://downloads.wordpress.org/plugin/kirki.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "query-monitor",
+        "type": "plugin",
+        "destination": "plugins/query-monitor",
+        "url": "https://downloads.wordpress.org/plugin/query-monitor.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "wp-lightbox-2",
+        "type": "plugin",
+        "destination": "plugins/wp-lightbox-2",
+        "url": "https://downloads.wordpress.org/plugin/wp-lightbox-2.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "zip-attachments",
+        "type": "plugin",
+        "destination": "plugins/zip-attachments",
+        "url": "https://downloads.wordpress.org/plugin/zip-attachments.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "wp-optimize",
+        "type": "plugin",
+        "destination": "plugins/wp-optimize",
+        "url": "https://downloads.wordpress.org/plugin/wp-optimize.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "meta-box",
+        "type": "plugin",
+        "destination": "plugins/meta-box",
+        "url": "https://downloads.wordpress.org/plugin/meta-box.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "one-click-demo-import",
+        "type": "plugin",
+        "destination": "plugins/one-click-demo-import",
+        "url": "https://downloads.wordpress.org/plugin/one-click-demo-import.zip",
+        "extra-files": [],
+        "post-install": null
+    },
+    {
+        "name": "woosidebars",
+        "type": "plugin",
+        "destination": "plugins/woosidebars",
+        "url": "https://downloads.wordpress.org/plugin/woosidebars.zip",
+        "extra-files": [],
+        "post-install": null
+    }
+]
